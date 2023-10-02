@@ -1,0 +1,1 @@
+# nuxt-for-cicd
